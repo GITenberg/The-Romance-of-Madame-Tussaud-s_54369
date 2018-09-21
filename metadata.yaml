@@ -1,5 +1,5 @@
 _repo: The-Romance-of-Madame-Tussaud-s_54369
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Belloc, Hilaire
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '2437'
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+covers:
+- cover_type: archival
+  image_path: 54369-h/images/cover.jpg
 creator:
   author:
     agent_name: Tussaud, John Theodore
     gutenberg_agent_id: '47845'
     url: http://www.gutenberg.org/2009/agents/47845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54369#The-Romance-of-Madame-Tussaud-s
 gutenberg_issued: '2017-03-15'
 gutenberg_type: Text
 identifiers:
